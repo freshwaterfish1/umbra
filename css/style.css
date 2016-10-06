@@ -347,8 +347,9 @@ overflow:hidden;
     -webkit-text-fill-color: black;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
-    */
+    *
     font-size: 10em !important;
+    */
     font-family: 'Varela Round', sans-serif;
     text-transform: lowercase;
     margin: 0px 0px 0px 0px;
